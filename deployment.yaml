@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: agung114/nodejs-app:10
+        image: agung114/nodejs-app:11
         ports:
         - containerPort: 3000
